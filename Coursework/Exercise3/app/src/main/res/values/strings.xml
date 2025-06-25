@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">lists_layouts_images</string>
+    <string-array name="pokemon_names">
+        <item>Pikachu</item>
+        <item>Charmander</item>
+        <item>Squirtle</item>
+    </string-array>
+
+    <string-array name="pokemon_prices">
+        <item>300.00€</item>
+        <item>100.00€</item>
+        <item>150.00€</item>
+    </string-array>
+
+    <string-array name="pokemon_powers">
+        <item>Electric shock that paralyzes enemies</item>
+        <item>Fire breath that scorches targets</item>
+        <item>High-pressure water blast</item>
+    </string-array>
+</resources>
