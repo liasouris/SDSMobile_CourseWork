@@ -14,3 +14,5 @@ An Android Studio app to log daily moods with emojis and journal entries, allows
 ## To run 
 - git clone https://github.com/liasouris/SDSMobile_CourseWork.git
 - cd Project
+## Demo video
+- Link: https://drive.google.com/file/d/1QT6OkYfNRx3JodZGQ2YAw6Hofz9cFRXw/view?usp=sharing
